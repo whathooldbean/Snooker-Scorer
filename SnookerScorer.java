@@ -507,7 +507,7 @@ public class SnookerScorer {
                 remainingPoints = 27 - subtraction;
             }
         }
-        input.trim();
+        scnr.nextLine(); //to clear the whitespace
     }
 //SCORE    
     public static void score() {
