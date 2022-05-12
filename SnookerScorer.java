@@ -49,7 +49,7 @@ public class SnookerScorer {
  
     private static void printDisclaimer() {
         System.out.println("v. 0.1\n"
-                + "Created by Philip Hobby.\n"
+                + "Created by whathooldbean.\n"
                 + "Free to download and use as you please. Any changes, please credit yourself.\n"
                 + "\n"
                 + "Known bugs: \n"
