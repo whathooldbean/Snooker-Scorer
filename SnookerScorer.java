@@ -48,12 +48,15 @@ public class SnookerScorer {
     }
  
     private static void printDisclaimer() {
-        System.out.println("v. 0.1\n"
+        System.out.println("v. 0.1.1\n"
                 + "Created by whathooldbean.\n"
                 + "Free to download and use as you please. Any changes, please credit yourself.\n"
                 + "\n"
+                + "Updates:\n"
+                + "• Fixed bug of erroneous error thrown after correction.\n"
+                + "\n"
                 + "Known bugs: \n"
-                + "• After a correction, it prints out “Invalid entry. Please try again.”\n"
+                + "• none.”\n"
                 + "\n"
                 + "This is a bare-bones text-based version. Coming soon to v. 1.0!\n"
                 + "• a GUI!\n"
